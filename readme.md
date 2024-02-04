@@ -63,7 +63,7 @@ Visit `http://localhost:3000` to view the site.
 Your .env file should contain key-value pairs, where each key represents a configurable aspect of your application, and the value is the setting you apply. Here’s a sample structure based on the details you provided:
 
 ### Google Tag Manager ID for tracking and analytics
-GTM_ID=GTM-MDKNLLC
+GTM_ID=<Your ID>
 
 ### The base URL of the site, used for generating absolute links and for SEO purposes
 SITE_URL=https://devunpack.com
