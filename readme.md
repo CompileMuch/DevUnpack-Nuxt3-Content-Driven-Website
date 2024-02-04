@@ -59,23 +59,23 @@ Copy the `.env.example` file to a new file named `.env` and update it with your 
 
 Visit `http://localhost:3000` to view the site.
 
-## Structure of the .env File
+### Structure of the .env File
 Your .env file should contain key-value pairs, where each key represents a configurable aspect of your application, and the value is the setting you apply. Here’s a sample structure based on the details you provided:
 
-# Google Tag Manager ID for tracking and analytics
+### Google Tag Manager ID for tracking and analytics
 GTM_ID=GTM-MDKNLLC
 
-# The base URL of the site, used for generating absolute links and for SEO purposes
+### The base URL of the site, used for generating absolute links and for SEO purposes
 SITE_URL=https://devunpack.com
 
-# The domain name of your site, utilized in various parts of the application
+### The domain name of your site, utilized in various parts of the application
 DOMAIN=devunpack.com
 
-# External URLs for social media and content, allowing for easy updates and management
+### External URLs for social media and content, allowing for easy updates and management
 X_URL=https://twitter.com/DevUnpack
 YOUTUBE_URL=https://www.youtube.com/@DevUnpack
 
-# The name of your site or organization, used in titles, headers, or footers
+### The name of your site or organization, used in titles, headers, or footers
 NAME=DevUnpack
 
 
